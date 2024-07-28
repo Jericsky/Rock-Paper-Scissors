@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    color: white;
+    background-color: #1A1A1A;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+}
+
+p {
+    margin: 20px;
+}
+
+.header-title {
+    padding: 50px;
+    font-size: 40px;
+}
+
+.rock-button , .paper-button , .scissors-button {
+    margin: 50px 100px;
+}
+
+.reset-button {
+    margin-top: 100px;
+    padding: 16px 20px;
+    border-radius: 20px;
+    background-color: #C6C6C6;
+}
